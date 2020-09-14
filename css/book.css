@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 90%;
+    margin: 3rem auto;
+
+}
+
+.container{
+    width: 50%;
+    margin: auto;
+
+}
+h1{
+    text-align: center;
+}
+
+#form{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1em;
+}
+
+input{
+    width: 100%;
+    padding: 0.4em;
+    margin: 0.5em 0;
+
+}
+
+#table{
+    margin-top: 1em;
+    width: 100%;
+
+
+}
+
+thead{
+    background-color: aqua;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+td{
+    width: 220px;
+    padding: 0.5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
